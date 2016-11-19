@@ -9,7 +9,7 @@ The text from what I can tell argues the pros and cons about the use of a flowch
 
 
 ## Journal 3 - A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space 
-This paper proposes that
+This paper proposes an algorithm which, when used is a fast and effiecnt way to calculate the distance between irregular shapes within a 3D space.
 
 ## Journal 4 - Go To Statement Considered Harmful 
 Info goes here.
