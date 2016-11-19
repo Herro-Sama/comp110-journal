@@ -1,4 +1,5 @@
 # comp110-journal
+
 ## Journal 1 - When does a physical system compute?
 From what I can understand of this paper it proposes a question on 'When a physical system computes', it then turns towards theoretical pyhsics and mathematics to try and answer the question. 
 
@@ -8,4 +9,7 @@ The text from what I can tell argues the pros and cons about the use of a flowch
 
 
 ## Journal 3 - A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space 
+This paper proposes that
 
+## Journal 4 - Go To Statement Considered Harmful 
+Info goes here.
