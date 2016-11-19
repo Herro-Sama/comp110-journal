@@ -12,3 +12,4 @@ The text from what I can tell argues the pros and cons about the use of a flowch
 This paper proposes an algorithm which, when used is a fast and effiecnt way to calculate the distance between irregular shapes within a 3D space.
 
 ## Journal 4 - Go To Statement Considered Harmful 
+The paper discusses the 'dangerous' implications of using a Go To statement in a higher level programming language, saying that it should be removed from all 'Higher' level languages except for maybe plain machine code.
